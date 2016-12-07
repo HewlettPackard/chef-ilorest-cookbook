@@ -1,0 +1,13 @@
+sudo: true
+
+language: ruby
+
+rvm:
+    - 2.2.5
+      
+branches:
+  only:
+  - master
+  
+notifications:
+   email: false
