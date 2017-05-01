@@ -123,6 +123,10 @@ end
 5. Run the tests, ensuring they all pass
 6. Submit a Pull Request using Github
 
+## History
+
+* 01/10/2017: Initial Commit
+
 ## License
 
 Copyright 2017 Hewlett Packard Enterprise Development LP
