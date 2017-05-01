@@ -1,4 +1,8 @@
-# ilorest Cookbook [![PyPI](https://img.shields.io/pypi/pyversions/python-ilorest-library.svg?maxAge=2592000)](https://pypi.python.org/pypi/python-ilorest-library) 
+# ilorest Cookbook
+
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/HewlettPackard/chef-ilorest-cookbook)
+[![Chef cookbook](https://img.shields.io/cookbook/v/ilorest.svg)](https://supermarket.chef.io/cookbooks/ilorest)
+[![license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://github.com/HewlettPackard/chef-ilorest-cookbook)
 
 #### Table of Contents
 1. [Description](#description)
@@ -119,7 +123,25 @@ end
 5. Run the tests, ensuring they all pass
 6. Submit a Pull Request using Github
 
-## License and Authors
+## License
 
-Authors: TODO: List authors
+Copyright 2017 Hewlett Packard Enterprise Development LP
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+ http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+## Authors
+
+* [Jack Garcia](http://github.com/LumbaJack)
+* [Matthew Kocurek](http://github.com/Yergidy)
+* [Prithvi Subrahmanya](http://github.com/PrithviBS)
 
