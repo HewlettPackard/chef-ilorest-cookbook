@@ -1,7 +1,7 @@
 import sys
 import json
 import logging
-from ilorest import AuthMethod, rest_client, ilorest_logger
+from redfish import AuthMethod, rest_client, ilorest_logger
 
 
 """
